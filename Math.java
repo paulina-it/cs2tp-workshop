@@ -9,7 +9,7 @@ public class Math {
         } else return b;
     }
 
-    public Min(int a, int b) {
+    public int Min(int a, int b) {
         if (a > b) {
             return b;
         } else {
