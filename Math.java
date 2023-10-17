@@ -16,4 +16,12 @@ public class Math {
             return a;
         }
     }
+
+    /* Dev: Sayira Begum
+       ID: 220208996
+       Function: Add two integers and return sum */
+    public int Add(int a, int b) {
+        return a+b;
+    }
+
 }
